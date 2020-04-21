@@ -1,4 +1,5 @@
 # Xavier Remacle & Ahmed Merah Seminar
+## For access to our video tutorials, please contact us
 ## AWS and GCP 
 
 # Motivation 
